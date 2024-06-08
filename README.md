@@ -23,6 +23,11 @@ To compile and run this project, you need the following libraries installed:
 ## Installation
 
 1. **Install SDL2 Libraries**
+SDL2-devel-2.30.0-mingw => SDL2
+SDL2_image-2.8.2 => img
+SDL2_image-devel-2.8.2-mingw => img
+SDL2_ttf-devel-2.22.0-mingw => img
+
 
 
    - On Windows using CodeBlocks:
